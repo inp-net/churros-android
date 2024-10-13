@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119117690439",
+    "project_id": "churros-3a1fc",
+    "storage_bucket": "churros-3a1fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119117690439:android:43a428b4490c4960afe362",
+        "android_client_info": {
+          "package_name": "dev.net7.churros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABPPpx2M8pfew0XWwf0XUinxysUseN7FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
