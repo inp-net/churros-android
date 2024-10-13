@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:119117690439:android:43a428b4490c4960afe362",
+        "mobilesdk_app_id": "1:119117690439:android:6d50988fbca563f7afe362",
         "android_client_info": {
-          "package_name": "dev.net7.churros"
+          "package_name": "app.churros"
         }
       },
       "oauth_client": [],
