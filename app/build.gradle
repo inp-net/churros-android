@@ -7,7 +7,7 @@ android {
         applicationId "app.churros"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode BUILD_VERSION_CODE
+        versionCode BUILD_VERSION_CODE.toInteger()
         versionName BUILD_VERSION_NAME
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
