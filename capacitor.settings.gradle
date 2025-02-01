@@ -8,6 +8,9 @@ project(':capacitor-app').projectDir = new File('../../../node_modules/@capacito
 include ':capacitor-haptics'
 project(':capacitor-haptics').projectDir = new File('../../../node_modules/@capacitor/haptics/android')
 
+include ':capacitor-keyboard'
+project(':capacitor-keyboard').projectDir = new File('../../../node_modules/@capacitor/keyboard/android')
+
 include ':capacitor-preferences'
 project(':capacitor-preferences').projectDir = new File('../../../node_modules/@capacitor/preferences/android')
 
@@ -16,6 +19,9 @@ project(':capacitor-push-notifications').projectDir = new File('../../../node_mo
 
 include ':capacitor-share'
 project(':capacitor-share').projectDir = new File('../../../node_modules/@capacitor/share/android')
+
+include ':capacitor-status-bar'
+project(':capacitor-status-bar').projectDir = new File('../../../node_modules/@capacitor/status-bar/android')
 
 include ':capgo-inappbrowser'
 project(':capgo-inappbrowser').projectDir = new File('../../../node_modules/@capgo/inappbrowser/android')
